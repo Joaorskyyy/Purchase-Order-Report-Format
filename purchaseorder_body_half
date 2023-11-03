@@ -144,7 +144,7 @@
                     </div>
                 </div>
             </div>
-            
+            <p t-field="o.notes" class="mt-4"/>
         </div>
     </t>
 </t>
